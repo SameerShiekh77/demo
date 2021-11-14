@@ -1,0 +1,12 @@
+git config --global user.name "Muhamamd Sameer"
+git config --global user.email "muhammadsameer123456.css@gmail.com"
+
+git init
+git status
+git add .
+git commit -m "msg"
+git remote add origin url
+git push -u origin master
+
+git clone url
+
